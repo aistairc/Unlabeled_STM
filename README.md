@@ -3,7 +3,7 @@
 This sample scripts are described in the paper "Subject-transfer framework with unlabeled data based on multiple distance measures for surface electromyogram pattern recognition" accepeted to <i>Biomedical Signal Processing and Control</i>.<br />
 
 __\<Description\>__<br />
-After changing information about your directories in main_script.m (lines 6 and 8), downloading original STM algorithm (calculate_A_b.m, find_target.m, supervised_STM.m), getxxfeat.m, and installing LIBSVM package, you can use this codes.<br />
+After changing information about your directories in main_script.m (lines 6 and 8), downloading getxxfeat.m, and installing LIBSVM package, you can use this codes.<br />
 This project has three folders:<br />
 1. data<br />
     - private<br />
@@ -60,7 +60,6 @@ This project has three folders:<br />
     - evaluate_svm_mdms<br />
         - svmtrain (LIBSVM)<br />
         - svmpredict (LIBSVM)<br />
-        you can get the following m.files from <a href="https://github.com/Suguru55/SS-STM_for_MyoDatasets" target="_blank">here</a><br />
         - supervised_STM<br />
             - find_target<br />
             - calculate_A_b<br />
