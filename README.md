@@ -54,6 +54,9 @@ This project has three folders:<br />
         you can make the m scripts, svmtrain.m and svmpredict.m from <a href="https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download" target="_blank">here</a><br />
         - svmtrain (LIBSVM)<br />
         - svmpredict (LIBSVM)<br />
+        - supervised_STM<br />
+            - find_target<br />
+            - calculate_A_b<br />
     - evaluate_lda_mdms<br />
         - svmtrain (LIBSVM)<br />
         - svmpredict (LIBSVM)<br />
