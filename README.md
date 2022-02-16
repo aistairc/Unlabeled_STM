@@ -58,8 +58,6 @@ This project has three folders:<br />
             - find_target<br />
             - calculate_A_b<br />
     - evaluate_lda_mdms<br />
-        - svmtrain (LIBSVM)<br />
-        - svmpredict (LIBSVM)<br />
     - evaluate_svm_mdms<br />
         - svmtrain (LIBSVM)<br />
         - svmpredict (LIBSVM)<br />
