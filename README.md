@@ -45,10 +45,28 @@ This project has three folders:<br />
             - getarfeat<br />
     - preprocessing_ds2<br />
         - extract_features<br />
+            - getrmsfeat<br />
+            - getmavfeat<br />
+            - getzcfeat<br />
+            - getsscfeat<br />
+            - getwlfeat<br />
+            - getarfeat<br />
     - preprocessing_ds3<br />
         - extract_features<br />
+            - getrmsfeat<br />
+            - getmavfeat<br />
+            - getzcfeat<br />
+            - getsscfeat<br />
+            - getwlfeat<br />
+            - getarfeat<br />
     - preprocessing_ds4<br />
         - extract_features<br />
+            - getrmsfeat<br />
+            - getmavfeat<br />
+            - getzcfeat<br />
+            - getsscfeat<br />
+            - getwlfeat<br />
+            - getarfeat<br />
     - evaluate_lda_acc<br />
     - evaluate_svm_acc<br />
         you can make the m scripts, svmtrain.m and svmpredict.m from <a href="https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download" target="_blank">here</a><br />
